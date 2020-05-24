@@ -2,12 +2,12 @@
 
 Robô minerador de veículos
 
-[ ] Mercado Livre
+- [x] iCarros
+- [x] Autoline
+- [ ] Mercado Livre
+- [ ] Web Motors
+- [ ] OLX
 
-[ ] Web Motors
 
-[ ] OLX
-
-[ ] iCarros
-
-[ ] Autoline
+### Preview
+![Crawler](https://github.com/eugenio-cunha/crawler-cars/blob/master/preview.png)
