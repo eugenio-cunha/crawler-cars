@@ -1,0 +1,1 @@
+{"version":3,"file":"alive.js","sourceRoot":"","sources":["../../src/controllers/alive.ts"],"names":[],"mappings":";;AAEA,MAAM,KAAK;IAEF,IAAI,CAAC,CAAU,EAAE,GAAa;QACnC,OAAO,GAAG,CAAC,IAAI,CAAC,EAAE,IAAI,EAAE,MAAM,EAAC,CAAC,CAAC;IACnC,CAAC;CACF;AAED,kBAAe,IAAI,KAAK,EAAE,CAAC"}

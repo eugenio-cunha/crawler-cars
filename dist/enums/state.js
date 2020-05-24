@@ -1,0 +1,34 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.State = void 0;
+var State;
+(function (State) {
+    State["AC"] = "AC";
+    State["AL"] = "AL";
+    State["AM"] = "AM";
+    State["AP"] = "AP";
+    State["BA"] = "BA";
+    State["CE"] = "CE";
+    State["DF"] = "DF";
+    State["ES"] = "ES";
+    State["GO"] = "GO";
+    State["MA"] = "MA";
+    State["MT"] = "MT";
+    State["MS"] = "MS";
+    State["MG"] = "MG";
+    State["PA"] = "PA";
+    State["PB"] = "PB";
+    State["PR"] = "PR";
+    State["PE"] = "PE";
+    State["PI"] = "PI";
+    State["RJ"] = "RJ";
+    State["RN"] = "RN";
+    State["RS"] = "RS";
+    State["RO"] = "RO";
+    State["RR"] = "RR";
+    State["SC"] = "SC";
+    State["SP"] = "SP";
+    State["SE"] = "SE";
+    State["TO"] = "TO";
+})(State = exports.State || (exports.State = {}));
+//# sourceMappingURL=state.js.map
